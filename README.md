@@ -1,2 +1,2 @@
-# LabØvelse1
-GitHub lab øvelse 1
+# Labovelse1
+GitHub lab ovelse 1
